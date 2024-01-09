@@ -1,0 +1,9 @@
+h1{
+  text-align: center;
+}
+.increment{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: xx-large;
+}
